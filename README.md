@@ -28,6 +28,7 @@
 
 #### Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/Unix%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -38,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-<<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mpluciani&theme=rose&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mpluciani&theme=rose&hide_border=true" height="165"/>
 </p>
@@ -46,7 +47,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpluciani&theme=rose&hide_border=true&layout=compact"/>
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=footer"/>
